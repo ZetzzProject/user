@@ -1,13 +1,8 @@
-
 {
     "user":{
         "admin":{
-        "password": "123",
-        "status": true
-        },
-        "zyco":{
-        "password": "zyc",
-        "status": true
+            "password":"123"
+            "status":true
         }
     }
 }
